@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+
+# Import all packages listed as Imports or Depends
+import(
+  Matrix,
+  linprog
+)
+
