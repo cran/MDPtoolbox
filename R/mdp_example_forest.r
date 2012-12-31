@@ -1,5 +1,3 @@
-# function [P, R] = mdp_example_forest (S, r1, r2, p)
-
 mdp_example_forest <- function(S, r1, r2, p) {
 
 if ( nargs() >= 1 & ifelse(!missing(S), S <= 1, F) ) {
@@ -35,7 +33,7 @@ if ( nargs() >= 1 & ifelse(!missing(S), S <= 1, F) ) {
 	#             | p  0  0....0 1-p |                  | 1 0..........0 |
 
 	P1 <- matrix(0,S,S)
-	diag(P1[,-1]) <- (1-p)
+	if (S > 2) diag(P1[-nrow(P1),-1]) <- (1-p) else P1[1,2] <- 1-p
 	P1[,1] <- p
 	P1[S,S] <- 1-p
 

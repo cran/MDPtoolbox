@@ -14,8 +14,8 @@ The Markov Decision Processes (MDP) toolbox proposes functions related to the re
 \tabular{ll}{
 Package: \tab MDPtoolbox\cr
 Type: \tab Package\cr
-Version: \tab 4.0\cr
-Date: \tab 2012-12-10\cr
+Version: \tab 4.0.1\cr
+Date: \tab 2012-12-31\cr
 License: \tab BSD (4.4)\cr
 }
 }
