@@ -14,8 +14,8 @@ The Markov Decision Processes (MDP) toolbox proposes functions related to the re
 \tabular{ll}{
 Package: \tab MDPtoolbox\cr
 Type: \tab Package\cr
-Version: \tab 4.0.1\cr
-Date: \tab 2012-12-31\cr
+Version: \tab 4.0.2\cr
+Date: \tab 2014-07-21\cr
 License: \tab BSD (4.4)\cr
 }
 }
@@ -29,7 +29,7 @@ Régis Sabbadin <Regis.Sabbadin@toulouse.inra.fr> \cr
 
 }
 \references{
-Chadès, I et al. 2012. MDP Toolbox: a multi-platform toolbox to solve stochastic dynamic pro- gramming problems. \cr
+Chadès, I., Chapron, G., Cros, M.-J., Garcia, F. & Sabbadin, R. 2014. MDPtoolbox: a multi-platform toolbox to solve stochastic dynamic programming problems. Ecography DOI:10.1111/ecog.00888 \cr
 Puterman, M. L. 1994. Markov Decision Processes. John Wiley & Sons, New-York.
 
 }

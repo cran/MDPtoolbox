@@ -1,11 +1,12 @@
-61676697d702c773774a82e50b13eec7 *DESCRIPTION
+01d7ba93849cb95acbfbd628d48de298 *DESCRIPTION
+0ef73c000d8bf4ef75cabfec0e2b5c60 *LICENSE
 b78406970a01c0d00c86fd28095fa5be *NAMESPACE
 860979236b8fb36db7695629f1f8ea88 *R/mdp_LP.r
 86596413d7fb413547b3b4377e49dc12 *R/mdp_Q_learning.r
 42c3ff3a3100dbcf24b1f4dd604ea53f *R/mdp_bellman_operator.r
 5d3ba5ed14e2d91e0f390462a07a0955 *R/mdp_check.r
 9c89010a2c7993449b984c09a2b19e54 *R/mdp_check_square_stochastic.r
-7c6fa144824c5b551fd6028d631af760 *R/mdp_computePR.r
+e87cd04e1a62ee2d8f1813091ef934ff *R/mdp_computePR.r
 7abb8f57fe96b8ef5afbab7b7719588a *R/mdp_computePpolicyPRpolicy.r
 e6be67501fe7006d31256f1df05c4435 *R/mdp_eval_policy_TD_0.r
 5fe68737c8c8e3735c1728f815ecc7ea *R/mdp_eval_policy_iterative.r
@@ -21,7 +22,7 @@ c50054f56a1e1ff48c0a90ffe7906d84 *R/mdp_span.r
 654ede705f0eef2d61379e821f5515c8 *R/mdp_value_iteration.r
 3ab56ff9ef03849ff654c2d267861897 *R/mdp_value_iterationGS.r
 0952c1d4ec0fbc0e1011355c67313ceb *R/mdp_value_iteration_bound_iter.r
-86d654d20f1f1f866d2b32eb90919924 *man/MDPtoolbox-package.Rd
+6f46a11cfcc95a2380f21d0f7c071ed9 *man/MDPtoolbox-package.Rd
 b2febe19ba4fa64f41b9cdc3e21e7dc9 *man/mdp_LP.Rd
 543b842cfce8048793d27652e66ae582 *man/mdp_Q_learning.Rd
 322742f027670aa3e7b108939857b78a *man/mdp_bellman_operator.Rd

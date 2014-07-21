@@ -6,7 +6,11 @@ mdp_computePR <- function(P,R) {
 if (length(dim(R)) == 2) { # & ~iscell(R)
 	PR <- R
 } else { # else R has form R(SxSxA)
-	S <- dim(R)[1]
+	if (is.list(R)){
+		S<-dim(R[[1]])[1]
+	}else{
+		S <- dim(R)[1]
+	}
 	if (is.list(P)) {
 		A <- length(P)
 		PR <- array(NA, c(S,A))
