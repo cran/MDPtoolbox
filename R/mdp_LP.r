@@ -42,7 +42,7 @@ if ( discount <= 0 | discount > 1 ) {
 		}
 	}
 	
-	# MATLAB: linprog(f,A,b) solves min f'*x such that A*x ≤ b.
+	# MATLAB: linprog(f,A,b) solves min f'*x such that A*x =< b.
 	# R: solveLP(f,b,A) solves min f'*x, subject to A*x <= b and x >= 0.
   # Tricky with the number of rows of b and the size of A
 	V <- as.numeric(solveLP(f,as.vector(-PR),M)$solution)

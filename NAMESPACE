@@ -6,3 +6,4 @@ import(
   linprog
 )
 
+importFrom("stats", "runif")

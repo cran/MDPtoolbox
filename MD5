@@ -1,7 +1,7 @@
-01d7ba93849cb95acbfbd628d48de298 *DESCRIPTION
+c1ff84e7d9369527f19697aa9d21b420 *DESCRIPTION
 0ef73c000d8bf4ef75cabfec0e2b5c60 *LICENSE
-b78406970a01c0d00c86fd28095fa5be *NAMESPACE
-860979236b8fb36db7695629f1f8ea88 *R/mdp_LP.r
+413ec1cf5f55f9ab75c49930fe4419de *NAMESPACE
+7ecf4bc4b50dd0ba95332326e5ac9cca *R/mdp_LP.r
 86596413d7fb413547b3b4377e49dc12 *R/mdp_Q_learning.r
 42c3ff3a3100dbcf24b1f4dd604ea53f *R/mdp_bellman_operator.r
 5d3ba5ed14e2d91e0f390462a07a0955 *R/mdp_check.r
@@ -14,7 +14,7 @@ e6be67501fe7006d31256f1df05c4435 *R/mdp_eval_policy_TD_0.r
 eade54508bfbd537819a02101e469f1a *R/mdp_eval_policy_optimality.r
 070936be125d98b26c7dcec7044c0461 *R/mdp_example_forest.r
 b38755701c8164f06d1b275bd4a1f914 *R/mdp_example_rand.r
-0e233a067b6760484a3db87a475cdb0a *R/mdp_finite_horizon.r
+a8b00b183e0d08e17837fe0c2e2b802f *R/mdp_finite_horizon.r
 bb1b5a3a87b8fc96317030d9f3ccd434 *R/mdp_policy_iteration.r
 a73e421caa46920b42d79ed4648d3aad *R/mdp_policy_iteration_modified.r
 1d3b035f8a22de0a99b0941aa0880764 *R/mdp_relative_value_iteration.r
@@ -22,7 +22,7 @@ c50054f56a1e1ff48c0a90ffe7906d84 *R/mdp_span.r
 654ede705f0eef2d61379e821f5515c8 *R/mdp_value_iteration.r
 3ab56ff9ef03849ff654c2d267861897 *R/mdp_value_iterationGS.r
 0952c1d4ec0fbc0e1011355c67313ceb *R/mdp_value_iteration_bound_iter.r
-6f46a11cfcc95a2380f21d0f7c071ed9 *man/MDPtoolbox-package.Rd
+0d82988ce9cccedc2e679bf1a300a253 *man/MDPtoolbox-package.Rd
 b2febe19ba4fa64f41b9cdc3e21e7dc9 *man/mdp_LP.Rd
 543b842cfce8048793d27652e66ae582 *man/mdp_Q_learning.Rd
 322742f027670aa3e7b108939857b78a *man/mdp_bellman_operator.Rd

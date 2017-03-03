@@ -5,7 +5,7 @@
 \alias{MDPtoolbox}
 \docType{package}
 \title{
-Markov Decision Processes toolbox
+Markov Decision Processes Toolbox
 }
 \description{
 The Markov Decision Processes (MDP) toolbox proposes functions related to the resolution of discrete-time Markov Decision Processes: finite horizon, value iteration, policy iteration, linear programming algorithms with some variants  and also proposes some functions related to Reinforcement Learning.
@@ -14,8 +14,8 @@ The Markov Decision Processes (MDP) toolbox proposes functions related to the re
 \tabular{ll}{
 Package: \tab MDPtoolbox\cr
 Type: \tab Package\cr
-Version: \tab 4.0.2\cr
-Date: \tab 2014-07-21\cr
+Version: \tab 4.0.3\cr
+Date: \tab 2017-03-02\cr
 License: \tab BSD (4.4)\cr
 }
 }

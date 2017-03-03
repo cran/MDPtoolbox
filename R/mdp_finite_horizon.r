@@ -26,7 +26,7 @@ if (N < 1) {
 	policy <- matrix(0,S,N)
 	
 	if (nargs() == 5) {
-	#	V[,N+1] <- h
+		V[,N+1] <- h
 	}
 	
 	PR <- mdp_computePR(P,R)
